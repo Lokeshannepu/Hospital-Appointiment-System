@@ -88,6 +88,7 @@ Hospital Appointment System
   * Saved appointments update relational counts across `Patients` and `Doctors` tables.
   * Real-time metrics flow into the Platform Analytics Dashboard automatically.
 
+📷 Screenshots
 
 
 
