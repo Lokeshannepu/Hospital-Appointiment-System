@@ -69,12 +69,26 @@ AppEngine Studio
 
 Dashboard
 <img width="1901" height="876" alt="Dashboard" src="https://github.com/user-attachments/assets/0cc1e232-7ffb-41d0-b5bb-fe17290cd5ce" />
+
+Appointment Record
 <img width="1816" height="837" alt="Appointment Record" src="https://github.com/user-attachments/assets/7bab99a8-41a9-451e-b3ee-7803a92b5b14" />
+
+Hospital Appointment System Architecture
 <img width="1370" height="772" alt="Hospital_Appointment_System_Architecture" src="https://github.com/user-attachments/assets/094c29b8-0bc6-4032-9e3a-260adf5fe863" />
+
+Flow
 <img width="987" height="636" alt="Flow" src="https://github.com/user-attachments/assets/a7a1e9ea-63b6-43bc-b2b4-918db529b8d9" />
+
+Client Script
 <img width="1823" height="882" alt="Client Script" src="https://github.com/user-attachments/assets/26c14fc0-428f-485f-b97b-8c014bb4777e" />
+
+Doctor Schedule
 <img width="1465" height="847" alt="Doctor Schedule" src="https://github.com/user-attachments/assets/24f72742-f745-40de-a30c-cfdc0f10241f" />
+
+Doctor
 <img width="1458" height="690" alt="Doctor" src="https://github.com/user-attachments/assets/e63c375c-2a54-4ad1-abc6-f689b9b418ee" />
+
+Patient
 <img width="1466" height="710" alt="Patient" src="https://github.com/user-attachments/assets/f540a6fb-4884-4a6d-9a3b-5fe62456f4d0" />
 
 
