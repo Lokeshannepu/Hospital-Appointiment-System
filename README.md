@@ -2,12 +2,12 @@ A ServiceNow workflow automation project for hospital appointment management usi
 
  🚀 Hospital Appointment System using ServiceNow
 
-A workflow automation project developed using **ServiceNow Studio**, **Client Scripts**, and **Platform Analytics** to automate patient registration and doctor appointment scheduling[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+A workflow automation project developed using **ServiceNow Studio**, **Client Scripts**, and **Platform Analytics** to automate patient registration and doctor appointment scheduling
 
 
 📌 Project Overview
 
-The **Hospital Appointment System** is a custom ServiceNow application that automates the appointment scheduling process[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span). Patients or receptionists can submit appointment requests, automated scripts validate dates in real-time, and administrators can monitor appointments using an interactive dashboard[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span).
+The **Hospital Appointment System** is a custom ServiceNow application that automates the appointment scheduling process. Patients or receptionists can submit appointment requests, automated scripts validate dates in real-time, and administrators can monitor appointments using an interactive dashboard.
 
 
 ✨ Features
